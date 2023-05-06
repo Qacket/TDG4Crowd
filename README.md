@@ -1,5 +1,5 @@
 # TDG4Crowd
-paper：Test Data Generation for Evaluation of Aggregation Algorithms in Crowdsourcin
+Paper：Test Data Generation for Evaluation of Aggregation Algorithms in Crowdsourcin
 
 The labelme folder is a corresponding experiment conducted on the Labelme dataset.
 Labelme is an image dataset. We obtain feature vectors through image preprocessing and use them as input to the model.
